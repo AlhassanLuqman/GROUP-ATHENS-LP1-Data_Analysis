@@ -36,4 +36,4 @@ Fintech companies did not receive the most funding in the Indian start-up ecosys
 
 4. How has the EdTech sector evolved between the periods of 2018 and 2021?
 
-5.  Which sector has seen the most growth in popularity? Does the funding in that sector play a role?
+5.  Which sector has seen the most growth in popularity? Does the funding to that sector play a role?
