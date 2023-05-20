@@ -5,10 +5,9 @@ This project is aimed at exploring the Indian ecosystem to see which companies a
 
 ## **Hypothesis:**
 ### __Null:__ 
-Fintech companies received the most funding in the Indian start-up ecosystem.
-
+Having the most number of startups in a city doesn't mean having the highest amount of funding (city).
 ### **Alternate:** 
-Fintech companies did not receive the most funding in the Indian start-up ecosystem.
+The higher number of startups in a city reflects the amount of funding the city receives.
 
 ## **Column names and description 💡**
 💎 Company/Brand: Name of the company/start-up.
@@ -34,12 +33,9 @@ Fintech companies did not receive the most funding in the Indian start-up ecosys
 
 3. Have the investment trends in the Indian start-up ecosystem shown a preference for Fintech companies over other sectors from 2018 to 2021?
 
-4. How has the EdTech sector evolved between the periods of 2018 and 2021?
+4.  Which sector has seen the most growth in popularity? Does the funding to that sector play a role?
 
-5.  Which sector has seen the most growth in popularity? Does the funding to that sector play a role?
+5. Which cities have the most number of start ups?
 
-6. Which cities have the most number of start ups?
-
-7. Who are the top ten investors?
 
 
