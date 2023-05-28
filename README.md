@@ -25,6 +25,7 @@ The higher number of startups in a city reflects the amount of funding the city 
 💎 Amount($): Raised fund
 
 💎 Stage: Round of funding reached
+
 ## **Questions:**
 
 1. How many startups are there per sector of the ecosystem?
@@ -41,6 +42,19 @@ The higher number of startups in a city reflects the amount of funding the city 
 
 7. What is the total amount of funding for each city over the years?
 
+## Environment Setup
+Install the required packages to be able to run the evaluation locally.
+
+You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's `root :: repository_name> ...`  follow the steps below:
+
+
+- Windows *(Python should be added to the Path variable of environment)*:
+        
+        python3 -m venv venv; venv\Scripts\activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt  
+
+- Linux & MacOs:
+        
+        python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
 
 
