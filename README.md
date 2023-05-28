@@ -27,15 +27,21 @@ The higher number of startups in a city reflects the amount of funding the city 
 💎 Stage: Round of funding reached
 ## **Questions:**
 
-1. Which sector received the most funding from 2018 to 2021?
+1. How many startups are there per sector of the ecosystem?
 
-2. What are the top ten sectors that had the most funding over the same period?
+2. How much funding has been made for each sector?
 
-3. Have the investment trends in the Indian start-up ecosystem shown a preference for Fintech companies over other sectors from 2018 to 2021?
+3. What is the total Amount of funding per sector for each year of funding?
 
-4.  Which sector has seen the most growth in popularity? Does the funding to that sector play a role?
+4.  What is the total amount of funding for each funding year?
 
-5. Which cities have the most number of start ups?
+5. How many startups were there for each funding year?
+
+6. What is the distribution of Startups per city?
+
+7. What is the total amount of funding for each city over the years?
+
+
 
 
 
